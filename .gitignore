@@ -1,0 +1,10 @@
+# git ignore file
+# Windows:
+*.rar
+
+# C#:
+J7.Demo
+packages
+bin
+obj
+*.suo
